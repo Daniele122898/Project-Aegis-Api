@@ -4,10 +4,10 @@ import (
 	"database/sql"
 	_ "github.com/go-sql-driver/mysql"
 	"log"
-	"github.com/Daniele122898/GuildBlackList/src/models"
+	"github.com/Daniele122898/Project-Aegis-Api/src/models"
 	"strconv"
-	"github.com/Daniele122898/GuildBlackList/src/utils"
-	"github.com/Daniele122898/GuildBlackList/src/config"
+	"github.com/Daniele122898/Project-Aegis-Api/src/utils"
+	"github.com/Daniele122898/Project-Aegis-Api/src/config"
 )
 
 var (

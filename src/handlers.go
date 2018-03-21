@@ -2,10 +2,10 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/Daniele122898/GuildBlackList/src/utils"
+	"github.com/Daniele122898/Project-Aegis-Api/src/utils"
 	"encoding/json"
 	"log"
-	"github.com/Daniele122898/GuildBlackList/src/models"
+	"github.com/Daniele122898/Project-Aegis-Api/src/models"
 	"net/http"
 	"time"
 	"strconv"
