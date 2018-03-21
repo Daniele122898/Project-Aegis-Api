@@ -3,7 +3,6 @@
   <br>
     Project-Aegis
   <br>
+  http://project-aegis.pw/
  </h1>
  <h4 align="center">First Discord wide API to protect your Discord Bot from malicious Guilds</h4>
-
- # Official Website: http://project-aegis.pw/
