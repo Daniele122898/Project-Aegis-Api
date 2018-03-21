@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://discord.gg/Pah4yj5"><img src="https://i.imgur.com/AuOmb8h.png" width="256px" alt="Project-Aegis"></a>
+    <a href="http://project-aegis.pw/"><img src="https://i.imgur.com/AuOmb8h.png" width="256px" alt="Project-Aegis"></a>
   <br>
     Project-Aegis
   <br>
